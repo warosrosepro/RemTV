@@ -1,0 +1,16 @@
+RemTV
+Copyright 2026 techgenius
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Credits and acknowledgements:
+- Hume Launcher — https://github.com/petrobot-admin/hume-launcher
+- Couch TV — https://github.com/Seagey/couch-tv
+- CleanYourTV — https://github.com/Gathin23/cleanyourtv
+
+This project includes or references third-party components that are distributed under their own licenses. See the corresponding license files and source directories for details.
+
+- Inter typeface — SIL Open Font License 1.1.
+- Project Nayuki QR Code Generator — MIT License.
+
+Weather data providers include Open-Meteo, MET Norway, and wttr.in.
