@@ -1,0 +1,31 @@
+# Build outputs
+build/
+*.apk
+*.aab
+*.dex
+*.class
+
+# Signing keys and credentials — never commit these
+*.keystore
+*.jks
+*.p12
+*.pfx
+signing.properties
+key.properties
+keystore-password.txt
+local.properties
+.env
+.env.*
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local notes
+tg.md
+x.md
+techolay.md
+xda.md
+reddit.md
